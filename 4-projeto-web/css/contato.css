@@ -1,0 +1,117 @@
+.interna-contato{
+  background: url("../img/bg-contato.jpg") no-repeat center;
+  background-size: cover;
+}
+
+/*Formulario Orcamento*/
+.contato{
+  padding: 40px 0;
+
+}
+.form-contato{
+  padding-right: 60px;
+}
+
+.form-contato label{
+  display: block;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 25px;
+  margin-bottom: 4px;
+}
+
+.form-contato input{
+  display: block;
+  width: 100%;
+  background: none;
+  border: 4px solid #fec63c;
+  margin-bottom: 10px;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 14px;
+  padding: 7px 10px;
+  outline: none;
+}
+
+.form-contato textarea{
+  display: block;
+  width: 100%;
+  height: 120px;
+  background: none;
+  border: 4px solid #fec63c;
+  margin-bottom: 20px;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 14px;
+  padding: 7px 10px;
+  outline: none;
+  resize: none;
+  overflow: auto;
+}
+
+.form-contato button{
+  background: none;
+  padding: 10px 40px;
+}
+
+/*Orcamento Dados*/
+.contato-dados {
+
+}
+
+.contato-dados h3{
+  color: #fec63c;
+  font-size: 18px;
+  line-height: 25px;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: .1em;
+
+}
+
+.contato-dados span{
+  display: block;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 25px;
+  letter-spacing: .1em;
+}
+
+.contato-dados span:nth-of-type(4){
+  margin-bottom: 30px;
+}
+
+.contato-dados p{
+  margin-top: 10px;
+}
+
+.contato-dados ul{
+  margin-top: 10px;
+}
+
+.contato-dados ul li{
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.contato-dados ul li a{
+  border: 3px solid #fec63c;
+  display: block;
+  padding: 10px;
+}
+
+.contato-dados ul li a:hover{
+  border-color: #000;
+}
+
+.contato-mapa{
+  margin-bottom: 60px;
+}
+
+.contato-mapa h3{
+  color: #fec63c;
+  font-size: 18px;
+  line-height: 25px;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: .1em;
+
+}
